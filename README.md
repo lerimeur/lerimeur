@@ -1,5 +1,5 @@
 ### Welcome there 👋
-🙋‍♂️ I'm Gregoire, a French developer, coding, aquarium and magic gathering fan.
+🙋‍♂️ I'm Gregoire, a French developer, coding, aquarium and magic the gathering fan.
 
 👨‍💻 Most of the time im coding application and web app but im learning new area every day
 
